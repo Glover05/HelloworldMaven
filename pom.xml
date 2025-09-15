@@ -23,7 +23,7 @@
     </repository>
     <snapshotRepository>
       <id>nexus</id>
-      <name>Snapshot</name>
+      <name>Snapshots</name>
       <url>http://192.168.49.1:8081/repository/JenkinsMavenHostedRepo</url>
     </snapshotRepository>
   </distributionManagement>
