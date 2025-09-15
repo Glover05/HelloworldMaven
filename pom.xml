@@ -19,12 +19,12 @@
     <repository>
       <id>nexus</id>
   	  <name>Releases</name>
-      <url>http://192.168.49.108:8081/repository/JenkinsMavenProxyRepo</url>
+      <url>http://192.168.49.1:8081/repository/JenkinsMavenProxyRepo</url>
     </repository>
     <snapshotRepository>
       <id>nexus</id>
       <name>Snapshot</name>
-      <url>http://192.168.49.108:8081/repository/JenkinsMavenHostedRepo</url>
+      <url>http://192.168.49.1:8081/repository/JenkinsMavenHostedRepo</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
